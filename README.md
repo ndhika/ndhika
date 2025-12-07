@@ -1,43 +1,113 @@
 <div align="center">
-Show Image
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
+
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header)
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="80" />
+
+# hey there 👋
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Technologist.png" alt="Coding" width="300" />
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andhika-hisyam-muhammad-rafi/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/azuma_rafi/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/ndhika/portofolio_v2)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ndhika&color=blueviolet&style=flat-square&label=Profile+views)
+
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Man%20Raising%20Hand.png" alt="About" width="30" /> About Me :
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
+🔨 I'm working as a **Software Engineer** and contributing to frontend and backend for building web applications.
+
+🎯 Currently learning **TypeScript**, **Next.js**, and **Docker**
+
+💬 Ask me about **JavaScript**, **React**, **PHP**, **Laravel**
+
+📧 How to reach me: **andhikarafi@example.com** (ganti dengan email lo)
+
+⚡ Fun fact: **I debug with console.log() and it works! 🐛**
+
+🎮 When I'm not coding: **Gaming, exploring new tech, and drinking coffee ☕**
+
+<br clear="both">
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack & Tools
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,vue,nodejs,express,php,laravel" alt="Tech Stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,mysql,mongodb,postgresql,redis" alt="Tech Stack" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,vercel,netlify" alt="Tools" />
+</p>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Fire.png" alt="Fire" width="30" /> GitHub Stats
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ndhika&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ffdd57&text_color=c9d1d9" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ndhika&theme=radical&hide_border=true&background=0d1117&stroke=ff6b9d&ring=ff6b9d&fire=ffdd57&currStreakLabel=ff6b9d" />
+</div>
+
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhika&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&text_color=c9d1d9&layout=compact&langs_count=8" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ndhika&custom_title=Contribution%20Graph&bg_color=0d1117&color=ff6b9d&line=ffdd57&point=ff6b9d&area_color=0d1117&hide_border=true&area=true" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Trophy.png" alt="Trophy" width="30" /> GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndhika&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" />
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" /> Featured Projects
 
 <div align="center">
 
-## 🛠️ Technologies & Tools
+<a href="https://github.com/ndhika/ceritaku">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndhika&repo=ceritaku&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ffdd57&text_color=c9d1d9" />
+</a>
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+<a href="https://github.com/ndhika/portofolio_v2">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndhika&repo=portofolio_v2&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ffdd57&text_color=c9d1d9" />
+</a>
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+<a href="https://github.com/ndhika/Nufaisyastore">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndhika&repo=Nufaisyastore&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ffdd57&text_color=c9d1d9" />
+</a>
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+<a href="https://github.com/ndhika/Tjmx_travel">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=ndhika&repo=Tjmx_travel&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff6b9d&icon_color=ffdd57&text_color=c9d1d9" />
+</a>
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+</div>
+
+---
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="30" /> Coding Activity
+
+<div align="center">
+
+<!--START_SECTION:waka-->
+```text
+JavaScript   █████████████░░░░░░░░   55.2%
+PHP          ████████░░░░░░░░░░░░░   28.4%
+HTML/CSS     ████░░░░░░░░░░░░░░░░░   12.1%
+Other        █░░░░░░░░░░░░░░░░░░░░    4.3%
+```
+<!--END_SECTION:waka-->
 
 </div>
 
@@ -45,25 +115,24 @@ Show Image
 
 <div align="center">
 
-## 📊 GitHub Analytics
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30" /> Let's Connect!
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ndhika&theme=tokyonight&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=FFFFFF" alt="GitHub Streak"/>
+**Open for collaborations and interesting conversations** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" />
 
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
+[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
 
+<br/>
 
----
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" /> ***Show some love by starring some repositories!*** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" />
 
-<div align="center">
+<br/>
 
-### 💬 Let's Connect & Collaborate!
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="30" />
 
-**I'm always open to interesting conversations and collaboration opportunities**
+**Thanks for visiting! Have a great day!** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Grinning%20Face%20with%20Big%20Eyes.png" alt="Smile" width="30" />
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](azumarafi@gmail.com)
-
----
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
 
 </div>
