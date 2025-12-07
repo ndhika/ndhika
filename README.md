@@ -1,15 +1,6 @@
 <div align="center">
-
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=Andhika%20Rafi&fontSize=80&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Code%20Enthusiast&descAlignY=51&descAlign=50&animation=twinkling)
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+the+future%2C" alt="Typing SVG" />
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-hisyam-muhammad-rafi/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/azuma_rafi/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ndhika&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
+Show Image
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Welcome+to+my+GitHub!+%F0%9F%91%8B;Building+the+future%2C+one+commit+at+a+time" alt="Typing SVG" />
 
 <div align="center">
 
