@@ -119,68 +119,6 @@ const andhika: Developer = {
 
 <div align="center">
 
-## 🎯 Current Focus
-
-```mermaid
-mindmap
-  root((Andhika))
-    Learning
-      TypeScript
-      Next.js
-      Docker
-      Microservices
-    Building
-      Full Stack Apps
-      RESTful APIs
-      Responsive UI
-    Contributing
-      Open Source
-      Community Projects
-      Code Reviews
-```
-
-</div>
-
----
-
-## 📈 Detailed Stats
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ndhika&theme=tokyonight" alt="Profile Summary"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ndhika&theme=tokyonight" alt="Repos per Language"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ndhika&theme=tokyonight" alt="Most Commit Language"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ndhika&theme=tokyonight" alt="Stats"/>
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ndhika&theme=tokyonight&utcOffset=7" alt="Productive Time"/>
-
-</div>
-
----
-
-## 💭 Random Dev Quote
-
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/ndhika/ndhika/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
-
-<div align="center">
-
 ### 💬 Let's Connect & Collaborate!
 
 **I'm always open to interesting conversations and collaboration opportunities**
@@ -190,8 +128,6 @@ mindmap
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
 
 ---
-
-**"The only way to do great work is to love what you do."** - Steve Jobs
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer)
 
