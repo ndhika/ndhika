@@ -1,78 +1,97 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header)
+# 👋 Hi, I'm Andhika Rafi  
+### Full Stack Web Developer • Tech Enthusiast • Problem Solver
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/andhika-hisyam-muhammad-rafi/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/azuma_rafi/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://github.com/ndhika/portofolio_v2)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ndhika&color=blueviolet&style=flat-square&label=Profile+views)
+<a href="https://www.linkedin.com/in/andhika-hisyam-muhammad-rafi/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://www.instagram.com/azuma_rafi/">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+<a href="https://github.com/ndhika">
+  <img src="https://komarev.com/ghpvc/?username=ndhika&style=for-the-badge&color=6f42c1"/>
+</a>
 
 </div>
 
 ---
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Tools" width="30" /> Tech Stack & Tools
+## 🚀 About Me
 
-<div align="center">
+- 💻 Full Stack Web Developer (Laravel, Vue, React)
+- 🧠 Love building **clean UI & scalable backend**
+- ⚡ Experienced with **REST API, Database Design & DevOps basics**
+- 🎨 Care about **design consistency & UX**
+- 🌱 Currently exploring **advanced Laravel, Filament & modern frontend**
+
+---
+
+## 🛠 Tech Stack
 
 ### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
 
 ### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel)
+![Vue](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![Next JS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwindcss)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap)
 
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+### 🗄 Databases & Cache
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis)
 
-### 🛠️ Tools & DevOps
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+### 🧰 Tools
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git)
+![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma)
+
+---
+
+## 📊 GitHub Stats (Prime Section ✨)
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=ndhika&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhika&theme=tokyonight&hide_border=true" height="160"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhika&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
 
 </div>
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ndhika&theme=onestar&no-frame=true&row=1"/>
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 LinkedIn: **Andhika Rafi**
+- 📸 Instagram: **@azuma_rafi**
+- 🚀 Open for collaboration, freelance & cool projects
+
 <div align="center">
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beating%20Heart.png" alt="Heart" width="30" /> Let's Connect!
-
-**Open for collaborations and interesting conversations** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" />
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourdiscord)
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" /> ***Show some love by starring some repositories!*** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" />
-
-<br/>
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="30" />
-
-**Thanks for visiting! Have a great day!**
-
-![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
+⭐ *If you like my work, consider starring some repositories!* ⭐  
+Thanks for visiting — have a great day!
 
 </div>
