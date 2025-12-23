@@ -1,6 +1,6 @@
 <!-- HERO GIF FULL WIDTH -->
 <div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2p3azBwa3RtcWt2MWNrZnhrNHB2eDh4c21jNHk4NW9obHQwN3ExMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TiRfN8fgoaJlGI9pbn/giphy.gif" width="85%"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3c2p3azBwa3RtcWt2MWNrZnhrNHB2eDh4c21jNHk4NW9obHQwN3ExMyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/TiRfN8fgoaJlGI9pbn/giphy.gif" width="65%"/>
 </div>
 
 
