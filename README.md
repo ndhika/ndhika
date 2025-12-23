@@ -12,6 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-hisyam-muhammad-rafi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azuma_rafi/)
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ndhika&color=6f42c1&style=for-the-badge)
 
 </div>
@@ -72,12 +73,12 @@
 <div align="center">
 
 <img 
-  src="https://github-readme-stats.vercel.app/api?username=ndhika&show_icons=true&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api?username=dhika&show_icons=true&theme=tokyonight" 
   height="165"
 />
 
 <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhika&layout=compact&theme=tokyonight" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhika&layout=compact&theme=tokyonight" 
   height="165"
 />
 
