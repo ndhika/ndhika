@@ -13,8 +13,10 @@
 
 **Full Stack Web Developer · Tech Enthusiast · Problem Solver**
 
+<div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-hisyam-muhammad-rafi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azuma_rafi/)
+</div>
 ![Profile Views](https://komarev.com/ghpvc/?username=ndhika&color=6f42c1&style=for-the-badge)
 
 </div>
@@ -90,7 +92,6 @@
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: **Andhika Rafi**
 - 📸 Instagram: **@azuma_rafi**
 - 🚀 Open for collaboration & cool projects
 
