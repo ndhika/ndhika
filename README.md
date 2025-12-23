@@ -1,5 +1,7 @@
 <!-- HERO GIF FULL WIDTH -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpiMXFrZTZsc2JrM3l4a2JkMWo3eGcxd2VkZ2xvenRudnBnZXhwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" />
+<div align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="85%"/>
+</div>
 
 
 ---
@@ -72,15 +74,12 @@
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ndhika&show_icons=true&theme=tokyonight" 
-  height="165"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=ndhika&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ndhika&theme=tokyonight&hide_border=true" height="160"/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhika&layout=compact&theme=tokyonight" 
-  height="165"
-/>
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhika&layout=compact&theme=tokyonight&hide_border=true" height="140"/>
 
 </div>
 
