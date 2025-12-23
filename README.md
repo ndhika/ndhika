@@ -1,23 +1,16 @@
-<!-- HERO GIF FULL WIDTH -->
-<img 
-  src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpiMXFrZTZsc2JrM3l4a2JkMWo3eGcxd2VkZ2xvenRudnBnZXhwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" 
-  width="100%" 
-  alt="coding gif"
-/>
-
----
-
 <div align="center">
 
-# 👋 Hi, I'm Andhika Rafi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header"/>
 
-**Web Developer · Tech Enthusiast**
+<h1>Hi 👋, I'm Rafi</h1>
+<h3>Full Stack Web Developer | Laravel • React • Vue • Phalcon</h3>
 
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-hisyam-muhammad-rafi/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azuma_rafi/)
-
-![Profile Views](https://komarev.com/ghpvc/?username=ndhika&color=6f42c1&style=for-the-badge)
+<a href="https://www.linkedin.com">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="https://github.com/USERNAME_GITHUB">
+  <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -25,50 +18,31 @@
 
 ## 🚀 About Me
 
-- 💻 Full Stack Web Developer (Laravel, Vue, React)
-- 🧠 Focus on **clean code & scalable architecture**
-- ⚡ Experience with **REST API & database design**
-- 🎨 Care about **UI consistency & UX**
-- 🌱 Currently learning **advanced backend & frontend stack**
+- 💻 Full Stack Web Developer  
+- ⚡ Laravel, Phalcon, React, Vue, Livewire, Filament  
+- 🎨 UI Focused (Clean, Dark, Modern)  
+- 📊 Love building real projects & dashboards  
+- 🌱 Currently leveling up backend & system design  
 
 ---
 
-## 💻 Tech Stack
+## 🖥️ Tech Stack
 
-### 👨‍💻 Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-### 🚀 Frameworks & Libraries
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-8511FA?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<img src="https://skillicons.dev/icons?i=linux,eslint,canva,mysql,strapi,tailwind,redux,react,reactrouter,nodejs,nextjs,npm,jwt,express,bootstrap,ts,js,html,css,digitalocean&perline=8" />
 
-### 🗄 Databases & Cache
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+</div>
 
-### 🧰 Tools & Platform
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=000)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-0DB7ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+---
+
+## 🎬 Featured Animation
+
+<div align="center">
+
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpiMXFrZTZsc2JrM3l4a2JkMWo3eGcxd2VkZ2xvenRudnBnZXhwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="100%" />
+
+</div>
 
 ---
 
@@ -76,28 +50,30 @@
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=ndhika&show_icons=true&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
+<img src="https://github-readme-stats.vercel.app/api?username=USERNAME_GITHUB&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=ndhika&layout=compact&theme=tokyonight&hide_border=true" 
-  height="165"
-/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_GITHUB&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="180"/>
 
 </div>
 
 ---
 
-## 🤝 Let's Connect
-
-- 📸 Instagram: **@azuma_rafi**
-- 🚀 Open for collaboration & cool projects
+## 🔥 GitHub Streak
 
 <div align="center">
 
-⭐ *If you like my work, consider starring some repositories*  
-Thanks for visiting 👋
+<img src="https://streak-stats.demolab.com?user=USERNAME_GITHUB&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## ✨ Quote
+
+<div align="center">
+
+> *"Build things that matter. Code with purpose."*
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer"/>
