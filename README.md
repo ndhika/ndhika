@@ -1,5 +1,5 @@
 <!-- HERO GIF FULL WIDTH -->
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpiMXFrZTZsc2JrM3l4a2JkMWo3eGcxd2VkZ2xvenRudnBnZXhwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="100%" />
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmpiMXFrZTZsc2JrM3l4a2JkMWo3eGcxd2VkZ2xvenRudnBnZXhwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/pUVOeIagS1rrqsYQJe/giphy.gif" width="auto" />
 
 
 ---
@@ -8,7 +8,7 @@
 
 # 👋 Hi, I'm Andhika Rafi
 
-**Full Stack Web Developer · Tech Enthusiast · Problem Solver**
+**Web Developer · Tech Enthusiast**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andhika-hisyam-muhammad-rafi/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/azuma_rafi/)
